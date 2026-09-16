@@ -25,15 +25,15 @@ git commit -m "docs: add team members and week 2 driver"
 
 團隊已提供現有儲存庫：https://github.com/yoyo6108876/nutn 。首次檢查時為空的公開儲存庫；本機 origin 使用此網址。以下建立步驟供課程核對，無須重複建立。名稱 `nutn` 尚不符合講義格式，取得組別後再由團隊決定改名。
 
-### 此次執行結果
+### 環境與提交紀錄
 
 - 已建立本機 `main`、環境報告、候選問題與初始 commit。
 - 已執行測試：5 項通過。
 - 已設定 `origin` 為 `https://github.com/yoyo6108876/nutn.git`。
-- 推送未完成：本機 Git 未取得 GitHub 登入憑證（`could not read Username`）；檢查用的 Codex 內建瀏覽器也尚未登入。
+- 初次推送曾因缺少 GitHub 登入憑證而失敗；目前已確認 GitHub 帳號 `yoyo6108876` 可用，且遠端 `main` 已包含初始 commit 與後續 README 更新。
 - 尚未邀請教師或提交課程 URL。
 
-完成 Git 的 GitHub 驗證後，可在本專案資料夾執行以下指令續傳現有 commit：
+後續本機 commit 可在本專案資料夾使用以下指令推送：
 
 ```sh
 git push -u origin main
