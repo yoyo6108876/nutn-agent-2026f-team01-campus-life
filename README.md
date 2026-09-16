@@ -16,10 +16,10 @@ LLM 的核心工作是理解範例與學生作業的語意對應，辨識「換�
 
 | 欄位 | 內容 |
 | --- | --- |
-| 組別 | 01（依目前儲存庫名稱） |
+| 組別 | 02 |
 | 題目 | 以教師範例為參考的作業規格與完成度檢查助手 |
 | GitHub 擁有者 | `yoyo6108876` |
-| 目前 Repository 名稱 | `nutn-agent-2026f-team01-campus-life` |
+| 目前 Repository 名稱 | `nutn-agent-2026f-team02-campus-life` |
 | 課程要求命名 | 目前名稱符合小寫 ASCII、兩位組別與連字號格式 |
 | Repository URL | https://github.com/yoyo6108876/nutn-agent-2026f-team01-campus-life |
 | Week 2 Driver | 建議由陳冠友擔任，待團隊確認 |
