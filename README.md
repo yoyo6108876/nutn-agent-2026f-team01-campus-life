@@ -1,6 +1,4 @@
-# NUTN Agent Project · Week 1
-
-本專案依照 `Week1-Course_Overview.pdf` 的 Environment & Project Bootcamp 建立，完成第一週的環境驗證與問題探索草稿。題目將於 Week 2 收斂，Week 3 提出正式 Proposal。
+# NUTN Agent Project
 
 ## 團隊
 
